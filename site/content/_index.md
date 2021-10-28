@@ -1,13 +1,19 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: img/different-between-realdom-and-virtualdom.png
+title: "World Arakanese Oraganation "
+subtitle: "                 United We Stand    "
+image: https://images.unsplash.com/photo-1615669380869-97a5e81a34f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Who are  the Arakanese !
+  text: "The Rakhine people or Arakanese people (Burmese: ရခိုင်လူမျိုး, Rakhine
+    pronunciation: [ɹəkʰàiɰ̃ lùmjó], Burmese pronunciation: [jəkʰàiɰ̃ lùmjó])
+    are a Southeast Asian ethnic group in Myanmar (Burma) forming the majority
+    along the coastal region of present-day Rakhine State (formerly officially
+    called Arakan). They possibly constitute 5.53% or more of Myanmar's total
+    population, but no accurate census figures exist. Rakhine people also live
+    in the southeastern parts of Bangladesh, especially in Chittagong Division
+    and Barisal Division. A group of Rakhine descendants, living in the
+    Chittagong Hill Tracts of Bangladesh at least since the 16th century, are
+    known as the Marma people or Mog people."
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
